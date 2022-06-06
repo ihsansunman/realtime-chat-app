@@ -20,3 +20,12 @@ export const subscribeChat = (callBack) => {
     callBack(message)
   });
 };
+
+export const subscribeInitialMessages = (callBack)=>{
+  if (!socket) return;
+
+  socket.on("message-list", (message) => {
+    console.log("Initial", message);
+    callBack(message)
+  });
+}

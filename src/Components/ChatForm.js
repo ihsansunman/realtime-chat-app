@@ -10,7 +10,7 @@ export default function ChatForm() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    setMessages((prevState)=>[...prevState, {message}])
+    setMessages((prevState) => [...prevState, { message, fromMe: true }]);
 
     sendMessage(message);
 
