@@ -1,7 +1,6 @@
 ![License](https://img.shields.io/github/license/ihsansunman/realtime-chat-app?style=for-the-badge) ![issues](https://img.shields.io/github/issues/ihsansunman/realtime-chat-app?style=for-the-badge) ![stars](https://img.shields.io/github/stars/ihsansunman/realtime-chat-app?style=for-the-badge) ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
-
 # realtime-chat-app
 
 ## Screenshots
