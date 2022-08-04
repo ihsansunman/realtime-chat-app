@@ -3,10 +3,6 @@
 
 # realtime-chat-app
 
-## Screenshots
-
-![Screenshot](https://raw.githubusercontent.com/ihsansunman/realtime-chat-app/master/src/images/screenshot.png)
-
 ## Run Locally
 
 Clone the project
@@ -18,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd ibb-data-dashboard
+  cd realtime-chat-app
 ```
 
 Install dependencies
